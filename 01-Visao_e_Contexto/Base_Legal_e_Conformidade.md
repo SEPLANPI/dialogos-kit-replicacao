@@ -5,7 +5,7 @@
 > Este documento resume a base legal citada no material do projeto. Recomenda-se que a equipe replicadora faça a **validação jurídica** no contexto local.
 
 ## Referências citadas no material
-- **Lei Complementar nº 87**, de 22 de agosto de **200?**: estabelece o **Planejamento Participativo Territorial para o Desenvolvimento Sustentável** do Estado do Piauí.
+- **Lei Complementar nº 87**, de 22 de agosto de **2007**: estabelece o **Planejamento Participativo Territorial para o Desenvolvimento Sustentável** do Estado do Piauí.
 - **Lei nº 8.255/2023**: institui o **Plano Plurianual (PPA)** e a necessidade de **revisão para os dois últimos anos**.
 
 ## Implicações práticas para replicação
