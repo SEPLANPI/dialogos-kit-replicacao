@@ -14,6 +14,11 @@ Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da in
 - **Transparência e auditabilidade**: trilha de dados (quem propôs, como foi priorizado) e publicação do resultado.
 - **Inclusão e capilaridade**: presença territorial + suporte (equipe, tablets, internet), reduzindo barreiras.
 
+## Contato
+Para dúvidas sobre o projeto tecnológico e replicação da solução, entre em contato com a **DITI (Diretoria de Tecnologia e Inovação)** da SEPLAN:
+
+- **E-mail**: `diti@seplan.pi.gov.br`
+
 ## Pré-requisitos mínimos (para replicar)
 - **Governança**: órgão coordenador (ex.: planejamento) + comitê de acompanhamento.
 - **Territorialização**: recorte territorial (regiões, municípios, bairros) e estratégia de mobilização.
